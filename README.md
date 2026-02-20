@@ -136,3 +136,8 @@ The agent uses Claude Haiku, Anthropic's fastest and most affordable model. Each
 | `Claude API error: 400 prompt too long` | Reduce `MAX_TRACKS_COMPACT` at the top of the script |
 | Playlist created but empty | Check your Swinsian library is fully loaded |
 | API key not saving | Install keyring (`pip install keyring`) or use the environment variable method instead |
+
+## Support
+
+If you find this useful and want to say thanks, a small donation is always appreciated!
+☕ Buy me a coffee on [Ko-fi](https://ko-fi.com/adriaanvanheerden)
