@@ -122,7 +122,7 @@ For large libraries, re-running the same prompt will produce a different playlis
 
 ## Cost
 
-The agent uses Claude Haiku, Anthropic's fastest and most affordable model. Each playlist generation costs roughly **$0.04–0.05**, or about 20–25 playlists per dollar.
+The agent uses Claude Haiku, Anthropic's fastest and most affordable model. Each playlist generation costs roughly **$0.10**, or about 10 playlists per dollar.
 
 ---
 
